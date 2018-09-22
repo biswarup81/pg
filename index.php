@@ -8,7 +8,10 @@
 <!-- Mirrored from www.maddim.com/demos/spark-r9/ by HTTrack Website Copier/3.x [XR&CO'2010], Sun, 03 Feb 2013 18:23:15 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
 <head>
+<<<<<<< HEAD
 
+=======
+>>>>>>> branch 'master' of https://github.com/biswarup81/pg.git
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	
