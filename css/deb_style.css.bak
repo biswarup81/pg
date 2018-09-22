@@ -1,0 +1,186 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background-color: #000;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-image:url(../images/cd_bg_top.jpg);
+	background-position:top;
+	background-repeat:repeat-x;
+}
+
+.top_wrap	{
+				width:100%;
+				background-image:url(../images/cd_bg_top.jpg);
+				background-repeat:repeat-x;
+				height:268px;
+			}
+.top	{
+			margin:0 auto;
+			width:1000px;
+			font:Verdana;
+			color:#CC0066;
+			font-size:40px;
+			font-weight:bold;
+			text-align:center;
+			padding-top:25px;
+		}
+		
+.main_wrap	{
+				width:100%;
+				float:left;
+				margin:0 auto;
+			}
+			
+.main		{
+				margin:0 auto;
+				font:Verdana;
+				font-weight:bold;
+				color:#005e75;
+				font-size:12px;
+				width:1000px;
+/*				min-height:500px;*/
+			}
+			
+.left_col	{
+				padding:25px;
+				width:450px;
+				float:left;
+			}
+.right_col	{
+				margin-top:50px;
+				width:450px;
+				float:left;
+				margin-left:10px;
+			}
+			
+.textfild	{
+				background-color:#edf8fc;
+				border:none; !important;
+				padding:3px; !important;
+				font:Verdana;
+				font-weight:bold;
+				color:#005e75; !important;
+				font-size:12px; !important;
+				margin-top:3px;
+				margin-bottom:3px;
+				margin-left:5px;
+				border:#069 1px solid;
+			}
+			
+.fildtext	{
+				font:Verdana;
+				font-weight:bold;
+				color:#FFF;
+				font-size:12px;
+				text-align:right;
+				padding-top:5px;
+			}
+
+			
+/*.footer_wrap	{
+	width:100%;
+	background-image:url(../images/cd_bg_bottom.jpg);
+	background-repeat:repeat-x;
+	height:202px;
+					position:absolute;
+	bottom:0px;
+	left:0px;
+				}
+				
+.footer		{
+				margin:0 auto;
+				font:Verdana;
+				font-size:14px;
+				font-weight:bold;
+				color:#005e75;
+				text-align:center;
+				padding-top:150px;
+			}*/
+			
+.clear	{
+			clear:both;
+		}
+		
+.show	{
+			background:url(../images_files/submit-img.png) no-repeat;
+	 border: medium none;
+    color: #FFFFFF;
+    float: left;
+    font-size: 14px;
+    font-weight: bold;
+    height: 38px;
+    width: 128px;
+	 margin-top: 5px;
+	  padding-bottom: 3px;
+		}
+		
+.error	{
+			font:Verdana;
+			font-weight:normal;
+			color:#F00;
+			font-size:12px;
+		}
+		
+.textmenu	{
+				font:Verdana;
+				font-weight:bold;
+				color:#005e75;
+				font-size:14px;
+				text-align:center;
+			}
+			
+			
+.reset	{
+			width:61px;
+			height:67px;
+			background-image:url(../images/cd_refress.png);
+			border:none;
+			font:Verdana;
+			font-weight:bold;
+			color:#333;
+			font-size:15px;
+		}
+                #calculationDiv {
+                    width: 550px;
+                    float: left;
+					margin-left:200px;
+					margin-top:25px;
+                }
+				
+#myiner-page-bg1{
+	
+	margin: 0 auto;
+    width: 960px;
+	background: url(../images_files/bg-iner-page.png) repeat-y;
+	min-height:550px;
+	
+}
+
+#myiner-page-bg2{
+	
+	margin: 0 auto;
+    width: 960px;
+	background: url(../images_files/bg-iner-page.png) repeat-y;
+	
+}
+
+.app_heading	{
+					color: #EFB602;
+    				font-size: 30px;
+					margin-left:50px;
+				}
+				
+.form_body	{
+				margin-left:250px;
+				margin-top:25px;
+			}
+
+.form_body1	{
+				margin-left:150px;
+				margin-top:25px;
+			}
+

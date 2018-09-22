@@ -1,0 +1,25 @@
+body{ background:#CCC}
+.main{ width:1000px; margin:50px auto;}
+.contain{ width:1000px; border:solid 1px #999; float:left; display:inline; background:#FFF; min-height:400px;}
+.heading{ width:100%; height:30px; background:#999; text-align:center; color:#FFF; font-size:22px;}
+.navigation{ width:100%; height:30px; border-bottom:solid 1px #999; float:right;}
+.nav{ width:450px; margin-left:10px; line-height:30px;}
+.nav a{ text-decoration:none; color:#036; font-weight:bold;}
+.nav a:hover{ color:#999}
+.body{ margin:60px auto; margin-left:25px;}
+.body2{ margin:60px auto; margin-left:10px; border:solid 1px #999; width:96%; padding:10px;}
+.body3{}
+.success{ margin:60px auto; margin-left:25px; border:solid 1px #0C0; width:400px; padding:10px; background:#D9F2DC; text-align:center;}
+.no-result{ margin-left:25px; border:solid 1px #FB6044; width:300px; padding:10px; background:#FED3CD; text-align:center;}
+input, textarea{ border:none; border:solid 1px #999; padding:3px;}
+input submit{ cursor:pointer; width:60px;}
+input{ width:200px;}
+select{ width:200px; border:solid 1px #999; padding:3px;}
+.ta{ width:200px;}
+span{ cursor:pointer; font-weight:500;}
+.back_table{ background:#CCC;}
+a{ text-decoration:none;}
+
+.alltd{
+	border-bottom:dashed 1px #666;
+}

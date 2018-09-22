@@ -1,0 +1,7 @@
+#Use PHP 5.4
+AddType application/x-httpd-php54 .php
+<IfModule mod_suphp.c>
+suPHP_ConfigPath /opt/php54/lib/php.ini
+</IfModule>
+
+RewriteBase /calender/

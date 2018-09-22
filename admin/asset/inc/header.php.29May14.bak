@@ -1,0 +1,32 @@
+<?php session_start();?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>::Asset Management:: Admin</title>
+<link rel="stylesheet" type="text/css" href="../style.css" />
+</head>
+<?php
+if(!isset($_SESSION['email'])){
+echo "<script>location.href='index.php'</script>";
+}
+include("inc/datacon.php");
+
+
+?>
+<body>
+<div class="main">
+<div class="contain">
+	<div class="header">
+            <a href="home.php">Home</a> |
+            <a href="add_asset.php">Asset</a>	|
+            <a href="asset_item.php">Asset Item</a> |
+            <!--<a href="alloc_asset.php">Allocate Asset</a> |-->
+            <!--<a href="release_asset.php">Release Asset</a> | -->
+            <!--<a href="searchAsset.php">Search Asset</a> | -->
+            <a href="Customer.php">Customer</a> | 
+            <a href="gen_invoice.php">Invoice</a> | 
+            <a href="../home.php">Back to Admin</a>
+            
+        </div>
+<div class="body"> 

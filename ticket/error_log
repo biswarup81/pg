@@ -1,0 +1,2 @@
+
+[27-Apr-2017 15:07:47 UTC] PHP Fatal error:  Wrong parameters for Exception([string $exception [, long $code [, Exception $previous = NULL]]]) in /home/pginfose/public_html/ticket/include/class.orm.php on line 1061
