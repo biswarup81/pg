@@ -8,10 +8,6 @@
 <!-- Mirrored from www.maddim.com/demos/spark-r9/ by HTTrack Website Copier/3.x [XR&CO'2010], Sun, 03 Feb 2013 18:23:15 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
 <head>
-<<<<<<< HEAD
-
-=======
->>>>>>> branch 'master' of https://github.com/biswarup81/pg.git
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	
@@ -227,7 +223,7 @@ window._fbq.push(["track", "PixelInitialized", {}]);
 							<li>Dual Core Desktop : Rs. 1400/= per month</li>
 							<li>P4 Laptop : Rs. 1200/= per month </li>
 							<li>P4 Desktop : Rs. 900/= per month</li>
-							<li>(Service Tax extra)</li>
+							<li>(GST extra)</li>
 						</ul>
 					</li>
 					<li id="mobileFriendly">Computer Product Range Includes: 
