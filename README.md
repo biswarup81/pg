@@ -1,4 +1,4 @@
 # pg
 Converted to NodeJS Application with NoSQL Database.
 
-git clone -b develop git@github.com:user/myproject.git
+git clone -b <BRANCH_NAME> <GIT_REPOSITORY>
