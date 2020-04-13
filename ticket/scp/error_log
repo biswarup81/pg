@@ -1,6 +1,0 @@
-[05-Apr-2017 13:36:15 UTC] PHP Fatal error:  Call to a member function setTabActive() on null in /home/pginfose/public_html/ticket/scp/profile.php on line 45
-[21-Jun-2017 21:37:14 UTC] PHP Warning:  Error while sending QUERY packet. PID=12965 in /home/pginfose/public_html/ticket/include/mysqli.php on line 165
-[21-Aug-2017 08:49:30 UTC] PHP Fatal error:  Call to a member function setTabActive() on null in /home/pginfose/public_html/ticket/scp/profile.php on line 45
-[21-Aug-2017 08:49:31 UTC] PHP Fatal error:  Call to a member function setTabActive() on null in /home/pginfose/public_html/ticket/scp/profile.php on line 45
-[21-Aug-2017 08:49:52 UTC] PHP Fatal error:  Call to a member function setTabActive() on null in /home/pginfose/public_html/ticket/scp/profile.php on line 45
-[21-Aug-2017 08:49:54 UTC] PHP Fatal error:  Call to a member function setTabActive() on null in /home/pginfose/public_html/ticket/scp/profile.php on line 45
