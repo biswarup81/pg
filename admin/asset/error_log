@@ -1,3 +1,0 @@
-
-[06-Apr-2017 08:14:51 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/pginfose/public_html/admin/asset/inc/datacon.php on line 10
-[06-Apr-2017 08:15:38 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/pginfose/public_html/admin/asset/inc/datacon.php on line 10
