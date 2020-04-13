@@ -1,2 +1,4 @@
 # pg
-This is the complete website for PGINFOSERVICES built using PHP-MYSQL.
+Converted to NodeJS Application with NoSQL Database.
+
+git clone -b develop git@github.com:user/myproject.git
